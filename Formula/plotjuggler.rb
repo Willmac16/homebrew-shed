@@ -6,8 +6,8 @@ class Plotjuggler < Formula
   head "https://github.com/facontidavide/PlotJuggler.git", branch: "main"
 
   stable do
-    url "https://github.com/facontidavide/PlotJuggler/archive/refs/tags/3.8.10.tar.gz"
-    sha256 "24a1bc5d860fb076539104efc55887b03aa89ca7eace0d815f31307f18722297"
+    url "https://github.com/facontidavide/PlotJuggler/archive/refs/tags/3.9.1.tar.gz"
+    sha256 "2c36df6a62d6e5a16f771e40abeb7df0cdf9912327c3f7f4f93a39b962911b2f"
   end
 
   depends_on "cmake" => :build
